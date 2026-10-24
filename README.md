@@ -1,8 +1,6 @@
 # CS305-Software-Security
 Projects from SNHU CS 305 course
 
-# CS 305 Portfolio Reflection: Artemis Financial
-
 ## Project Overview
 
 Artemis Financial was a financial services company that needed to improve the security of its software application. The company wanted to protect sensitive information, secure communications, and reduce vulnerabilities in its existing software. My goal was to review the application for security issues and apply secure coding practices to improve its protection without losing its existing functionality.
